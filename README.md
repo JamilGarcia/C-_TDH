@@ -27,6 +27,12 @@
 ![](images/hanoi_acii.png)
 
 ---
+## :black_circle: Hanoi Muestra
+
+![](images/Hanoi_muestra.png)
+![](images/SalidaMuestra.png)
+
+---
 
 #### Herramientas:
 - :package: [Visual Studio Code](https://code.visualstudio.com/)
